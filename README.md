@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @likith01
-- 👀 I’m interested in coding and full stacck development
+- 👀 I’m interested in coding and full stack development
 - 🌱 reach me @ likiths2501@gmail.com
 - linkedIn accout : https://www.linkedin.com/in/likith-s-452315226
 - blog page https://lmskyhigh.blogspot.com/ with https://github.com/Manasar2501/
